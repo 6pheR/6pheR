@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @6pheR
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=6pheR&count_private=true&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=6pheR&count_private=true&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6pheR&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
